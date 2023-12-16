@@ -23,6 +23,11 @@
 
   /* gradient */
 
+  a{
+    text-decoration: none;
+    color: hsl(45, 100%, 72%);
+  }
+
   --bg-gradient-onyx: linear-gradient(
     to bottom right, 
     hsl(240, 1%, 25%) 3%, 
